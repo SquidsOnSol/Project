@@ -1,6 +1,4 @@
 import React from 'react'
-import twitter_icon from '../assets/img/twitter.png'
-import discord_icon from '../assets/img/discord.png'
 import '../assets/css/style.css'
 
 
