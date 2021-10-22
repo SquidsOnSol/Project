@@ -18,11 +18,13 @@ background-color: #2c2d30;
     align-items: center;
 }
 .root-container h1{
-    font-size: 48px;
+    font-size: 58px;
     letter-spacing: 5px;
-    margin: 70px 0px;
-    color: white;
+    margin: 50px 0px;
     text-align: center;
+   background: -webkit-linear-gradient(#00FFA3, #03E1FF, #DC1FFF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 .img-wrapper{
     height: 500px;
