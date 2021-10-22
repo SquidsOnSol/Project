@@ -57,7 +57,6 @@ background-color: #2c2d30;
 .faqs h2, .toadmap h2{
     font-size: 40px;
     letter-spacing: 2px;
-    text-shadow: -2px -1px #fb00ff, 1px -1px #00ffea;
 }
 .faqs p{
     font-size: 24px;
