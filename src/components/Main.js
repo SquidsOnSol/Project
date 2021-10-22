@@ -15,7 +15,7 @@ export default function Main() {
                         </div>
                     </div>
         <div className="faqs">
-                        <p>An collection of <b>2500</b> code generated squids from ASCII code art. No Photoediting or drawing was made. Stickly code. Join the Squidz community to start your own NFT project from code.</p><br /><br />
+                        <span>An collection of <b>2500</b> code generated squids from ASCII code art. No Photoediting or drawing was made. Stickly code. Join the Squidz community to start your own NFT project from code.</span>
         </div>
          <div className="button">
                         <button>Connect Wallet</button>
