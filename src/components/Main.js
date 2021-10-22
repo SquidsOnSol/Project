@@ -11,7 +11,7 @@ export default function Main() {
                 <div className="content-section">
                     <h1>Squids on Sol</h1>
         <div className="faqs">
-                        <h2>An collection of <b>2500 code generated</b> squids in from ASCII art.</h2><br /><br />
+                        <span>An collection of <b>2500 code generated</b> squids in from ASCII art.</span><br /><br />
         </div>
          <div className="button">
                         <button>Connect Wallet</button>
