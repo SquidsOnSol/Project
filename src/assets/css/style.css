@@ -25,7 +25,7 @@ background-color: #2c2d30;
    background: -webkit-linear-gradient(#00FFA3, #03E1FF, #DC1FFF);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  -webkit-text-stroke: 4px white; /* width and color */
+  -webkit-text-stroke: 1px white; /* width and color */
 }
 .img-wrapper{
     height: 500px;
