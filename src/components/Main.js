@@ -9,15 +9,15 @@ export default function Main() {
         <>
             <div className="root-container">
                 <div className="content-section">
-                    <h1>SQUIDS ON SOL</h1>
+                    <h1>SQUIDZ</h1>
          <div className="joining">
                         <div className="social-icons">
-                            <a href="/"><img src={twitter_icon} alt="twitter" /></a>
-                            <a href="/"><img src={discord_icon} alt="discord" /></a>
+                            <a href="/">Twitter</a>
+                            <a href="/">Discord</a>
                         </div>
                     </div>
         <div className="faqs">
-                        <span>An collection of <b>2500 code generated</b> squids in from ASCII art.</span><br /><br />
+                        <span>An collection of <b>2500</a> code generated squids from ASCII code art. No Photoediting or drawing was made. Stickly code. Join the Squidz community to start your own NFT project from code.</span><br /><br />
         </div>
          <div className="button">
                         <button>Connect Wallet</button>
