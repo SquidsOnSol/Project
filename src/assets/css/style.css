@@ -86,7 +86,7 @@ background-color: #2c2d30;
     font-family: 'VT323', monospace;
 }
 .joining{
-    padding: 20px 0px 50px 0px;
+    padding: 20px 0px 20px 0px;
     text-align: center;
 }
 .joining h2{
@@ -105,7 +105,7 @@ background-color: #2c2d30;
     width: 50px;
 }
 .social-icons{
-    padding: 50px 0px;
+    padding: 0px 0px;
 }
 @media (max-width:500px){
     .img-wrapper, .faqs, .toadmap {
