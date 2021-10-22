@@ -1,14 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
-@font-face {
-    font-family: PressStart ;
-    /* src: url(./font/press-start-2p-v9-latin-regular.ttf); */
-    src: url(../font/press-start-2p-v9-latin-regular.ttf);
 }
 
 *{
    padding: 0;
    margin: 0;
    box-sizing: border-box;
+   font-family: 'Roboto Mono', sans-serif;
 }
 body{
     background-color: #3EECAC;
