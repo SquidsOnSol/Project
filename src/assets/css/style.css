@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+@font-face {
+    font-family: PressStart ;
+    /* src: url(./font/press-start-2p-v9-latin-regular.ttf); */
+    src: url(../font/press-start-2p-v9-latin-regular.ttf);
+}
+
+*{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+body{
+    background-color: #3EECAC;
+background-image: linear-gradient(90deg, #5dd3a8 0%, #dfa4d9 100%);
+
+    font-family: 'PressStart';
+}
+.root-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.root-container h1{
+    font-size: 48px;
+    letter-spacing: 5px;
+    margin: 70px 0px;
+    color: white;
+    text-align: center;
+}
+.img-wrapper{
+    height: 500px;
+    width: 500px;
+    background: url(../img/1.gif) no-repeat center center / cover;
+    border: 5px solid white;
+}
+.button{
+    text-align: center;
+}
+.button button{
+    border: 0;
+    outline: 0;
+    padding: 14px 16px;
+    margin: 50px;
+    font-size: 15px;
+    color: white;
+    cursor: pointer;
+    background-color: rgba(46, 80, 192, 0.933);
+    box-shadow: 1px 2px 5px 0px rgba(0,0,0,0.75);;
+}
+.button button:hover{
+    background-color: rgba(28, 71, 211, 0.933);
+}
+.faqs, .toadmap{
+    height: 500px;
+    width: 500px;
+    border: 5px solid white;
+    padding: 50px 50px 50px 50px;
+    color: white;
+    margin-bottom: 50px;
+}
+.faqs h2, .toadmap h2{
+    font-size: 40px;
+    letter-spacing: 2px;
+    text-shadow: -2px -1px #fb00ff, 1px -1px #00ffea;
+}
+.faqs p{
+    font-size: 24px;
+    line-height: 20px;
+    font-family: 'VT323', monospace;
+    letter-spacing: 3px;
+}
+.faqs span{
+    font-size: 14px;
+}
+.faq-img{
+    padding: 15px 0px;
+    display: flex;
+    justify-content: space-between;
+}
+.faq-img img{
+    width: 150px;
+    height: 110px;
+    margin: 0 auto;
+}
+.in-progress-list{
+    padding-left: 12px;
+}
+.in-progress-list li{
+    padding: 5px 0px;
+    font-size: 21px;
+    font-family: 'VT323', monospace;
+}
+.joining{
+    padding: 20px 0px 50px 0px;
+    text-align: center;
+}
+.joining h2{
+    font-size: 28px;
+    color: white;
+    letter-spacing: 3px;
+}
+.joining h3{
+    color: white;
+    font-size: 18px;
+}
+.joining a{
+    margin-left: 10px;
+}
+.joining img{
+    width: 50px;
+}
+.social-icons{
+    padding: 50px 0px;
+}
+@media (max-width:500px){
+    .img-wrapper, .faqs, .toadmap {
+        width: 100%;
+    }
+    .faqs, .toadmap{
+        padding: 25px 20px 25px 20px;
+    }
+    .root-container h1{
+        font-size: 40px;
+    }
+}
+@media (max-width:320px){
+    .faqs, .toadmap{
+        padding: 10px 0px 10px 0px;
+    }
+    .root-container h1{
+        font-size: 30px;
+    }
+}
