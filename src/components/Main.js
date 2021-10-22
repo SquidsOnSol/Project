@@ -9,7 +9,7 @@ export default function Main() {
         <>
             <div className="root-container">
                 <div className="content-section">
-                    <h1>Squids on Sol</h1>
+                    <h1>SQUIDS ON SOL</h1>
          <div className="joining">
                         <div className="social-icons">
                             <a href="/"><img src={twitter_icon} alt="twitter" /></a>
