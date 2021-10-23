@@ -19,7 +19,7 @@ export default function Main() {
                         <span>An collection of <b>2500</b> code generated squids from ASCII code art. No Photoediting or drawing was made. Stickly code. Join the Squidz community to start your own NFT project from code.</span>
         </div>
          <div className="button">
-                        <button>Connect Wallet</button>
+                        <button>CONNECT WALLET</button>
                     </div><br /><br />
                     <div className="img-wrapper"></div>
         <div className="faqs">
