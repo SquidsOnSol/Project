@@ -20,7 +20,7 @@ export default function Main() {
         </div>
          <div className="button">
                         <button>Connect Wallet</button>
-                    </div>
+                    </div><br /><br />
                     <div className="img-wrapper"></div>
         <div className="faqs">
                         <h2>FAQ</h2><br /><br />
