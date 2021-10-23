@@ -25,6 +25,7 @@ background-color: black;
    background: -webkit-linear-gradient(#00FFA3, #03E1FF, #DC1FFF);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+   font-family: 'VT323';
 }
 .img-wrapper{
     height: 500px;
