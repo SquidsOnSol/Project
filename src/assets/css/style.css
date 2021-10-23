@@ -8,8 +8,7 @@
    font-family: 'Roboto Mono', sans-serif;
 }
 body{
-background-color: black;
-   
+     background-color: black;
     font-family: 'Roboto Mono';
 }
 .root-container{
@@ -51,7 +50,7 @@ background-color: black;
     cursor: pointer;
 }
 .button button:hover{
-    background-color: rgba(28, 71, 211, 0.933);
+    background-color: #4aa52e;
 }
 .faqs, .toadmap{
     height: auto;
