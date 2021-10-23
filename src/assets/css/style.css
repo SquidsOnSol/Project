@@ -7,6 +7,13 @@
    box-sizing: border-box;
    font-family: 'Roboto Mono', sans-serif;
 }
+a:link {
+   color: white;
+}
+a:visited {
+  color: pink;
+}
+      
 body{
      background-color: black;
     font-family: 'Roboto Mono';
