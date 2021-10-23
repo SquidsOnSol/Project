@@ -8,11 +8,11 @@
    font-family: 'Roboto Mono', sans-serif;
 }
 a:link {
-   font size: 30px;
+   font-size: 30px;
    color: white;
 }
 a:visited {
-   font size: 30px;
+   font-size: 30px;
   color: pink;
 }
       
