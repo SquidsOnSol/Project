@@ -8,11 +8,11 @@
    font-family: 'Roboto Mono', sans-serif;
 }
 a:link {
-   font-size: 30px;
+   font-size: 20px;
    color: white;
 }
 a:visited {
-   font-size: 30px;
+   font-size: 20px;
   color: pink;
 }
       
@@ -26,7 +26,7 @@ body{
     align-items: center;
 }
 .root-container h1{
-    font-size: 76px;
+    font-size: 100px;
     letter-spacing: 1px;
     margin: 50px 0px;
     text-align: center;
@@ -138,6 +138,6 @@ body{
         padding: 10px 0px 10px 0px;
     }
     .root-container h1{
-        font-size: 30px;
+        font-size: 500px;
     }
 }
