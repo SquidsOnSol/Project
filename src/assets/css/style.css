@@ -38,14 +38,17 @@ background-color: black;
     text-align: center;
 }
 .button button{
-    border: 0;
-    outline: 0;
-    padding: 14px 16px;
-    margin: 50px;
-    font-size: 15px;
-    color: white;
+    background: #92cd41;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+    font-family: Press Start\ 2P,cursive;
+    text-decoration: none;
+    color: #fff;
+    box-shadow: inset -4px -4px 0 0 #4aa52e;
     cursor: pointer;
-    background-color: rgba(46, 80, 192, 0.933);
 }
 .button button:hover{
     background-color: rgba(28, 71, 211, 0.933);
