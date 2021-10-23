@@ -27,7 +27,6 @@ body{
 }
 .root-container h1{
     font-size: 100px;
-    letter-spacing: 1px;
     margin: 50px 0px;
     text-align: center;
    background: -webkit-linear-gradient(#00FFA3, #03E1FF, #DC1FFF);
@@ -130,7 +129,7 @@ body{
         padding: 25px 20px 25px 20px;
     }
     .root-container h1{
-        font-size: 60px;
+        font-size: 75px;
     }
 }
 @media (max-width:320px){
